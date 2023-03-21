@@ -1,1 +1,23 @@
 /* Suerte :-) */
+
+#hero {
+  background-size: 160%;
+  background-repeat: no-repeat;
+}
+
+#hero-content {
+  top: 30%;
+}
+
+#hero-content a {
+  background-color: rgb(255, 251, 0);
+}
+
+footer {
+  display: flex;
+  justify-content: space-around;
+}
+
+.destination {
+  text-transform: uppercase;
+}
