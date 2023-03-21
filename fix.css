@@ -21,3 +21,7 @@ footer {
 .destination {
   text-transform: uppercase;
 }
+
+#destinations li:last-child strong {
+  color: red;
+}
